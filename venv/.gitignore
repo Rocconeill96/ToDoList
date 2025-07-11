@@ -1,0 +1,24 @@
+# created by virtualenv automatically
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# VS Code config
+.vscode/
+
+#environment variables 
+*venv/
+*.venv/
+
+#folders
+bonus/
+bug_fixing/
+coding_exercises/
+files/
+
+
+#.py files
+while_loop_and_userinput.py
+infinite_loop_exercise.py
+
